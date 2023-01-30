@@ -1,3 +1,21 @@
-#Arg {
-    width: 5rem;
+div.logo #Arg {
+    width: 7rem;
 }
+
+div.socialmedia img {
+    width: 2.6rem;
+}
+
+div.socialmedia {
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
+
+div.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Responsive */ 
+/* hace el responsive por favor te lo pido */ 
